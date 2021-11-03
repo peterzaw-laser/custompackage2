@@ -1,0 +1,500 @@
+{
+    "packages": [
+        {
+            "id": "63ad2bd5-3648-445c-a583-ffd4450e96dc",
+            "code": "Lip-Chinx1",
+            "name": "Lip + Chin x 1",
+            "description": "Laser Hair Removal",
+            "type": 2,
+            "active": true,
+            "category_id": "3894e151-7984-467e-9755-684b056edcdb",
+            "business_unit_id": "b362c2b7-cd17-4dc0-a10d-1d45c153befb",
+            "version_id": "63ad2bd5-3648-445c-a583-ffd4450e96dc",
+            "html_description": "",
+            "time": 15,
+            "booking_start_date": null,
+            "booking_end_date": null,
+            "commission": {
+                "eligible": true,
+                "factor": 100.0,
+                "type": 0,
+                "value": 0.0
+            },
+            "series_package": {
+                "type": 1,
+                "cost_to_center": 0.0,
+                "initial_recognization": 0.0,
+                "schedule": {
+                    "days_for_first_payment": -1,
+                    "payment_frequency": null,
+                    "payment_frequency_type": 1,
+                    "number_of_instalments": null
+                },
+                "freeze_count": -2,
+                "validity": {
+                    "expiry_date": null,
+                    "expiry": 90,
+                    "grace_period": "",
+                    "validity_id": ""
+                },
+                "validate_first_redemption": false,
+                "transfer_service_credits": false,
+                "terms_and_conditions": "",
+                "regular": {
+                    "min_partial_payment": 0.0000,
+                    "price_inclusive_of_bundled_products": false,
+                    "appointment_start_time": "00:00:00",
+                    "appointment_end_time": "23:59:00",
+                    "target": {
+                        "target_name": "",
+                        "target_type": 0,
+                        "target_value": null,
+                        "close_when_target_met": false
+                    }
+                },
+                "offer": null,
+                "custom_template": null
+            },
+            "preferences": {
+                "allow_cancellation_fee": false,
+                "allow_cancellation_comission": false,
+                "allow_no_show_fee": false,
+                "allow_no_show_comission": false,
+                "allow_membership_redemption": false,
+                "allow_giftcard_redemption": true,
+                "enforce_otp": false
+            },
+            "catalog_info": {
+                "show_in_catalog": true,
+                "can_book": true,
+                "show_price": true,
+                "display_name": "",
+                "display_price": "",
+                "video_url": ""
+            },
+            "centers": [
+                {
+                    "center_id": "6e9eb23c-a8e3-4120-8e04-f41c6978c555",
+                    "currency_id": 8,
+                    "sale_price": 30.0000,
+                    "price_with_tax": 30.0000,
+                    "tax_id": null,
+                    "auto_renewal": false
+                }
+            ],
+            "tags": null,
+            "benefits": {
+                "services": [
+                    {
+                        "id": "ae3ee18c-aaf6-4473-9a64-175b9c48d8e5",
+                        "item_type": 2,
+                        "quantity": 1,
+                        "order": -1,
+                        "recognize_revenue": true
+                    }
+                ],
+                "products": [],
+                "bundled_products": []
+            }
+        },
+        {
+            "id": "ebd998a7-28e1-4a73-90c4-6e62e085295e",
+            "code": "Lip-Chinx10",
+            "name": "Lip + Chin x 10",
+            "description": "",
+            "type": 2,
+            "active": true,
+            "category_id": "3894e151-7984-467e-9755-684b056edcdb",
+            "business_unit_id": "b362c2b7-cd17-4dc0-a10d-1d45c153befb",
+            "version_id": "ebd998a7-28e1-4a73-90c4-6e62e085295e",
+            "html_description": "",
+            "time": 15,
+            "booking_start_date": null,
+            "booking_end_date": null,
+            "commission": {
+                "eligible": true,
+                "factor": 100.0,
+                "type": 0,
+                "value": 0.0
+            },
+            "series_package": {
+                "type": 1,
+                "cost_to_center": 0.0,
+                "initial_recognization": 0.0,
+                "schedule": {
+                    "days_for_first_payment": -1,
+                    "payment_frequency": null,
+                    "payment_frequency_type": 1,
+                    "number_of_instalments": null
+                },
+                "freeze_count": -2,
+                "validity": {
+                    "expiry_date": null,
+                    "expiry": 548,
+                    "grace_period": "",
+                    "validity_id": ""
+                },
+                "validate_first_redemption": false,
+                "transfer_service_credits": false,
+                "terms_and_conditions": "",
+                "regular": {
+                    "min_partial_payment": 0.0000,
+                    "price_inclusive_of_bundled_products": false,
+                    "appointment_start_time": "00:00:00",
+                    "appointment_end_time": "23:59:00",
+                    "target": {
+                        "target_name": "",
+                        "target_type": 0,
+                        "target_value": null,
+                        "close_when_target_met": false
+                    }
+                },
+                "offer": null,
+                "custom_template": null
+            },
+            "preferences": {
+                "allow_cancellation_fee": false,
+                "allow_cancellation_comission": false,
+                "allow_no_show_fee": false,
+                "allow_no_show_comission": false,
+                "allow_membership_redemption": false,
+                "allow_giftcard_redemption": true,
+                "enforce_otp": false
+            },
+            "catalog_info": {
+                "show_in_catalog": true,
+                "can_book": true,
+                "show_price": true,
+                "display_name": "",
+                "display_price": "",
+                "video_url": ""
+            },
+            "centers": [
+                {
+                    "center_id": "6e9eb23c-a8e3-4120-8e04-f41c6978c555",
+                    "currency_id": 8,
+                    "sale_price": 205.0000,
+                    "price_with_tax": 205.0000,
+                    "tax_id": null,
+                    "auto_renewal": false
+                }
+            ],
+            "tags": null,
+            "benefits": {
+                "services": [
+                    {
+                        "id": "ae3ee18c-aaf6-4473-9a64-175b9c48d8e5",
+                        "item_type": 2,
+                        "quantity": 10,
+                        "order": -1,
+                        "recognize_revenue": true
+                    }
+                ],
+                "products": [],
+                "bundled_products": []
+            }
+        },
+        {
+            "id": "2dc6bdac-de1d-473e-aaf4-81b8a8aa382f",
+            "code": "Lip-Chinx4",
+            "name": "Lip + Chin x 4",
+            "description": "",
+            "type": 2,
+            "active": true,
+            "category_id": "3894e151-7984-467e-9755-684b056edcdb",
+            "business_unit_id": "b362c2b7-cd17-4dc0-a10d-1d45c153befb",
+            "version_id": "2dc6bdac-de1d-473e-aaf4-81b8a8aa382f",
+            "html_description": "",
+            "time": 15,
+            "booking_start_date": null,
+            "booking_end_date": null,
+            "commission": {
+                "eligible": true,
+                "factor": 100.0,
+                "type": 0,
+                "value": 0.0
+            },
+            "series_package": {
+                "type": 1,
+                "cost_to_center": 0.0,
+                "initial_recognization": 0.0,
+                "schedule": {
+                    "days_for_first_payment": -1,
+                    "payment_frequency": null,
+                    "payment_frequency_type": 1,
+                    "number_of_instalments": null
+                },
+                "freeze_count": -2,
+                "validity": {
+                    "expiry_date": null,
+                    "expiry": 365,
+                    "grace_period": "",
+                    "validity_id": ""
+                },
+                "validate_first_redemption": false,
+                "transfer_service_credits": false,
+                "terms_and_conditions": "",
+                "regular": {
+                    "min_partial_payment": 0.0000,
+                    "price_inclusive_of_bundled_products": false,
+                    "appointment_start_time": "00:00:00",
+                    "appointment_end_time": "23:59:00",
+                    "target": {
+                        "target_name": "",
+                        "target_type": 0,
+                        "target_value": null,
+                        "close_when_target_met": false
+                    }
+                },
+                "offer": null,
+                "custom_template": null
+            },
+            "preferences": {
+                "allow_cancellation_fee": false,
+                "allow_cancellation_comission": false,
+                "allow_no_show_fee": false,
+                "allow_no_show_comission": false,
+                "allow_membership_redemption": false,
+                "allow_giftcard_redemption": true,
+                "enforce_otp": false
+            },
+            "catalog_info": {
+                "show_in_catalog": true,
+                "can_book": true,
+                "show_price": true,
+                "display_name": "",
+                "display_price": "",
+                "video_url": ""
+            },
+            "centers": [
+                {
+                    "center_id": "6e9eb23c-a8e3-4120-8e04-f41c6978c555",
+                    "currency_id": 8,
+                    "sale_price": 102.0000,
+                    "price_with_tax": 102.0000,
+                    "tax_id": null,
+                    "auto_renewal": false
+                }
+            ],
+            "tags": null,
+            "benefits": {
+                "services": [
+                    {
+                        "id": "ae3ee18c-aaf6-4473-9a64-175b9c48d8e5",
+                        "item_type": 2,
+                        "quantity": 4,
+                        "order": -1,
+                        "recognize_revenue": true
+                    }
+                ],
+                "products": [],
+                "bundled_products": []
+            }
+        },
+        {
+            "id": "1c671b6d-f32d-4f21-a5f4-c4d73e3cfc5e",
+            "code": "Lip-Chinx6",
+            "name": "Lip + Chin x 6",
+            "description": "",
+            "type": 2,
+            "active": true,
+            "category_id": "3894e151-7984-467e-9755-684b056edcdb",
+            "business_unit_id": "b362c2b7-cd17-4dc0-a10d-1d45c153befb",
+            "version_id": "1c671b6d-f32d-4f21-a5f4-c4d73e3cfc5e",
+            "html_description": "",
+            "time": 15,
+            "booking_start_date": null,
+            "booking_end_date": null,
+            "commission": {
+                "eligible": true,
+                "factor": 100.0,
+                "type": 0,
+                "value": 0.0
+            },
+            "series_package": {
+                "type": 1,
+                "cost_to_center": 0.0,
+                "initial_recognization": 0.0,
+                "schedule": {
+                    "days_for_first_payment": -1,
+                    "payment_frequency": null,
+                    "payment_frequency_type": 1,
+                    "number_of_instalments": null
+                },
+                "freeze_count": -2,
+                "validity": {
+                    "expiry_date": null,
+                    "expiry": 365,
+                    "grace_period": "",
+                    "validity_id": ""
+                },
+                "validate_first_redemption": false,
+                "transfer_service_credits": false,
+                "terms_and_conditions": "",
+                "regular": {
+                    "min_partial_payment": 0.0000,
+                    "price_inclusive_of_bundled_products": false,
+                    "appointment_start_time": "00:00:00",
+                    "appointment_end_time": "23:59:00",
+                    "target": {
+                        "target_name": "",
+                        "target_type": 0,
+                        "target_value": null,
+                        "close_when_target_met": false
+                    }
+                },
+                "offer": null,
+                "custom_template": null
+            },
+            "preferences": {
+                "allow_cancellation_fee": false,
+                "allow_cancellation_comission": false,
+                "allow_no_show_fee": false,
+                "allow_no_show_comission": false,
+                "allow_membership_redemption": false,
+                "allow_giftcard_redemption": true,
+                "enforce_otp": false
+            },
+            "catalog_info": {
+                "show_in_catalog": true,
+                "can_book": true,
+                "show_price": true,
+                "display_name": "",
+                "display_price": "",
+                "video_url": ""
+            },
+            "centers": [
+                {
+                    "center_id": "6e9eb23c-a8e3-4120-8e04-f41c6978c555",
+                    "currency_id": 8,
+                    "sale_price": 135.0000,
+                    "price_with_tax": 135.0000,
+                    "tax_id": null,
+                    "auto_renewal": false
+                }
+            ],
+            "tags": null,
+            "benefits": {
+                "services": [
+                    {
+                        "id": "ae3ee18c-aaf6-4473-9a64-175b9c48d8e5",
+                        "item_type": 2,
+                        "quantity": 6,
+                        "order": -1,
+                        "recognize_revenue": true
+                    }
+                ],
+                "products": [],
+                "bundled_products": []
+            }
+        },
+        {
+            "id": "63d7a313-2140-4535-9690-302442b72104",
+            "code": "Pamper Package $150",
+            "name": "LOVE SKIN PAMPER PACKAGE",
+            "description": "2 x Led Light Therapy Facial  2 x Active Results Product",
+            "type": 2,
+            "active": false,
+            "category_id": null,
+            "business_unit_id": "2fd278e0-a8df-4dd6-8314-45a197dcd4c8",
+            "version_id": "c70d14a9-b4ba-44f7-bc5e-a2145b601eb2",
+            "html_description": "",
+            "time": 15,
+            "booking_start_date": null,
+            "booking_end_date": null,
+            "commission": {
+                "eligible": false,
+                "factor": 100.0,
+                "type": 0,
+                "value": 0.0
+            },
+            "series_package": {
+                "type": 1,
+                "cost_to_center": 0.0,
+                "initial_recognization": 0.0,
+                "schedule": {
+                    "days_for_first_payment": -1,
+                    "payment_frequency": null,
+                    "payment_frequency_type": 1,
+                    "number_of_instalments": null
+                },
+                "freeze_count": -2,
+                "validity": {
+                    "expiry_date": null,
+                    "expiry": 365,
+                    "grace_period": "",
+                    "validity_id": "0e57cfa5-82a8-43ea-a441-478faeb68164"
+                },
+                "validate_first_redemption": false,
+                "transfer_service_credits": false,
+                "terms_and_conditions": "",
+                "regular": {
+                    "min_partial_payment": 0.0000,
+                    "price_inclusive_of_bundled_products": true,
+                    "appointment_start_time": "00:00:00",
+                    "appointment_end_time": "23:59:00",
+                    "target": {
+                        "target_name": "",
+                        "target_type": 0,
+                        "target_value": null,
+                        "close_when_target_met": false
+                    }
+                },
+                "offer": null,
+                "custom_template": null
+            },
+            "preferences": {
+                "allow_cancellation_fee": false,
+                "allow_cancellation_comission": false,
+                "allow_no_show_fee": false,
+                "allow_no_show_comission": false,
+                "allow_membership_redemption": false,
+                "allow_giftcard_redemption": true,
+                "enforce_otp": false
+            },
+            "catalog_info": {
+                "show_in_catalog": false,
+                "can_book": false,
+                "show_price": false,
+                "display_name": "",
+                "display_price": "",
+                "video_url": ""
+            },
+            "centers": [
+                {
+                    "center_id": "6e9eb23c-a8e3-4120-8e04-f41c6978c555",
+                    "currency_id": 8,
+                    "sale_price": 150.0000,
+                    "price_with_tax": 150.0000,
+                    "tax_id": null,
+                    "auto_renewal": false
+                }
+            ],
+            "tags": null,
+            "benefits": {
+                "services": [
+                    {
+                        "id": "329f6af7-daab-41c1-994d-68890ecfd813",
+                        "item_type": 2,
+                        "quantity": 2,
+                        "order": -1,
+                        "recognize_revenue": true
+                    }
+                ],
+                "products": [],
+                "bundled_products": [
+                    {
+                        "id": "4645ea80-50f6-42e6-b6e5-b98ed7c0d269",
+                        "item_type": 1,
+                        "quantity": 2
+                    }
+                ]
+            }
+        },
+   ],
+    "page_info": {
+        "total": 142,
+        "page": 2,
+        "size": 100
+    }
+}
